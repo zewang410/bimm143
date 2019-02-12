@@ -1,8 +1,8 @@
 #'---
-#'title:"Class 05"
+#'title:"Class 05 Introduction oto R graphics"
 #'author:"Ze Wang"
 #'date:"Jan 24,2019
-#'output:pdf_document
+#'output:github_document
 #'---
 
 
